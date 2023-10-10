@@ -16,10 +16,10 @@ Desenvolver uma plataforma web que permita o escritório de projetos gerenciar e
 ## :computer: Cloud Computing:
 
 - Grupo 1 - Maroon 5:
-  - Link do repositório: https://github.com/2023M5T6-inteli/grupo1
+  - Link do repositório: https://github.com/2023M5T06-inteli/grupo1
 
 - Grupo 2 - Pipeli:
-  - Link do repositório: https://github.com/2023M5T6-inteli/grupo2
+  - Link do repositório: https://github.com/2023M5T06-inteli/grupo2
   
 - Grupo 3 - Montech:
-  - Link do repositório: https://github.com/2023M5T6-inteli/grupo3
+  - Link do repositório: https://github.com/2023M5T06-inteli/grupo3
