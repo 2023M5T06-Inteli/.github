@@ -8,11 +8,6 @@ Automatizar o processo de submissão de projetos e seleção de parceiros
 
 Desenvolver uma plataforma web que permita o escritório de projetos gerenciar e acompanhar suas iniciativas de projetos de forma eficaz e centralizada.
 
-
-## :jigsaw: O público-alvo:
-
-...
-
 ## :computer: Cloud Computing:
 
 - Grupo 1 - Maroon 5:
